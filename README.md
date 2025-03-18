@@ -1,5 +1,5 @@
 # 💫 SOBRE MIM:
-Eu sou Yasmin, tenho 24 anos ,sou de Minas Gerais,e moro atualmente no mesmo estado.Estou estudando Sistemas de Informação, com previsão de formação em 2027.<br>Estou aprendendo JAVA e Banco de Dados atualmente, estou a procura de um estágio para desenvolver melhor as habilidades tecnológicas.<br>
+Eu sou Yasmin, tenho 25 anos ,sou de Minas Gerais,e moro atualmente no mesmo estado.Estou estudando Sistemas de Informação, com previsão de formação em 2027.<br>Estou aprendendo JAVA e Banco de Dados atualmente, estou a procura de um estágio para desenvolver melhor as habilidades tecnológicas.<br>
 Gosto de ler e fazer trilhas, amo gastronomia mineira, gosto de animais, tenho dois, um gato e uma cachorrinha.
 
 ## 🌐 REDES SOCIAS:
