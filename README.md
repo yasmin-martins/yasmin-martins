@@ -1,6 +1,6 @@
 # 💫 SOBRE MIM:
-Eu sou Yasmin, tenho 25 anos ,sou de Minas Gerais,e moro atualmente no mesmo estado.Estou estudando Sistemas de Informação, com previsão de formação em 2027.<br>Estou aprendendo JAVA e Banco de Dados atualmente, estou a procura de um estágio para desenvolver melhor as habilidades tecnológicas.<br>
-Gosto de ler e fazer trilhas, amo gastronomia mineira, gosto de animais, tenho dois, um gato e uma cachorrinha.
+Eu sou Yasmin, tenho 25 anos ,sou de Minas Gerais,e resido atualmente no mesmo estado.Estou estudando Sistemas de Informação, com previsão de formação em 2027.<br>Estou aprendendo JAVA e Banco de Dados atualmente, estou a procura de um estágio para desenvolver melhor as habilidades tecnológicas.<br>
+Gosto de ler e fazer trilhas,viajar e conhecer novos lugares, amo gastronomia mineira, gosto de animais.
 
 ## 🌐 REDES SOCIAS:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yassmin_marttins) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/yasmin-martins-de-souza-616b92171) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@yasminmar_tins) 
