@@ -1,6 +1,6 @@
 ## SOBRE MIM:
-Eu sou Yasmin, tenho 26 anos ,sou de Minas Gerais,e resido atualmente no mesmo estado.Estou estudando Sistemas de Informação, com previsão de formação em 2027.<br>Estou aprendendo Java, Python, Banco de Dados e Análise de Dados atualmente.<br>
-Gosto de ler e fazer trilhas,viajar e conhecer novos lugares, amo gastronomia mineira, e gosto de animais.
+Eu sou Yasmin, sou de Minas Gerais,e resido atualmente no mesmo estado.Estou estudando Sistemas de Informação, com previsão de formação em 2027.<br>Estou aprendendo Java, Python, Banco de Dados e Análise de Dados atualmente.<br>
+
 
 ## REDES SOCIAS:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](http://instagram.com/yasmin_martinssz/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasminmartinssouza/)
